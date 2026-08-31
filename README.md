@@ -54,16 +54,18 @@ The dataset contains information about:
 
 ### Analysis Outputs
 
-The `charts` folder contains visualizations for:
+The `charts` folder contains the following visualizations:
 
 1. Selling Price Distribution
 2. Present Price vs Selling Price
 3. Average Selling Price by Manufacturing Year
 4. Category Comparison
 5. Kilometers Driven vs Selling Price
-6. Correlation Heatmap
+6. Correlation Heatmap of Numerical Features
 7. Present Price Distribution
 8. Kilometers Driven Distribution
+9. Count of Cars by Fuel Type
+10. Top 10 Most Listed Car Models
 
 ### Key Insights
 
