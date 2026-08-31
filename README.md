@@ -44,6 +44,7 @@ The dataset contains information about:
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 
 ### Project Files
 
